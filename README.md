@@ -7,7 +7,7 @@ funciona (em linhas gerais).
 **Descrição dos arquivos:**
 
 - **.pdf**: gerado pelo Google Drive, sem animações.
-- **.docx**: gerador pelo Google Drive, não pude checar a precisão da conversão realizada pelo mesmo.
+- **.pptx**: gerador pelo Google Drive, não pude checar a precisão da conversão realizada pelo mesmo.
 
 #### A palestra com todas as animações [está disponível no Google Drive](https://docs.google.com/presentation/d/1HSWHnJpoDEajNLbv6WqQvxYH7xTKe1ohbN2bTHaALu0/edit?usp=sharing).####
 
