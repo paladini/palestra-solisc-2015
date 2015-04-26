@@ -1,6 +1,6 @@
 # Palestra IX Solisc (2015)
 
-Palestrada sobre Bitcoin (para iniciantes que não entendem como o Bitcoin funciona) ministrada por Fernando Paladini no IX Solisc, no dia 18 
+Palestrada sobre Bitcoin (para iniciantes que não entendem como o Bitcoin funciona) ministrada por [Fernando Paladini](http://www.github.com/paladini/) no IX Solisc, no dia 18 
 de Abril de 2015. Voltada para o público que já ouviu falar de Bitcoin e sabe algumas coisas básicas sobre o uso, mas não entende como o mesmo 
 funciona (em linhas gerais).
 
@@ -9,11 +9,7 @@ funciona (em linhas gerais).
 - **.pdf**: gerado pelo Google Drive, sem animações.
 - **.docx**: gerador pelo Google Drive, não pude checar a precisão da conversão realizada pelo mesmo.
 
-#### A palestra com todas as animações e efeitos está disponível no Google Drive ([clique 
-aqui](https://docs.google.com/presentation/d/1HSWHnJpoDEajNLbv6WqQvxYH7xTKe1ohbN2bTHaALu0/edit?usp=sharing)).####
-
-## Sobre
-Apresentação criada por [Fernando Paladini](http://www.github.com/paladini/).
+#### A palestra com todas as animações [está disponível no Google Drive](https://docs.google.com/presentation/d/1HSWHnJpoDEajNLbv6WqQvxYH7xTKe1ohbN2bTHaALu0/edit?usp=sharing)).####
 
 ## Licença
 A apresentação está licenciada sob Creative Commons - assim sendo você pode usar, compartilhar e modificar para qualquer fim, desde que o 
