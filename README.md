@@ -9,7 +9,7 @@ funciona (em linhas gerais).
 - **.pdf**: gerado pelo Google Drive, sem animações.
 - **.docx**: gerador pelo Google Drive, não pude checar a precisão da conversão realizada pelo mesmo.
 
-#### A palestra com todas as animações [está disponível no Google Drive](https://docs.google.com/presentation/d/1HSWHnJpoDEajNLbv6WqQvxYH7xTKe1ohbN2bTHaALu0/edit?usp=sharing)).####
+#### A palestra com todas as animações [está disponível no Google Drive](https://docs.google.com/presentation/d/1HSWHnJpoDEajNLbv6WqQvxYH7xTKe1ohbN2bTHaALu0/edit?usp=sharing).####
 
 ## Licença
 A apresentação está licenciada sob Creative Commons - assim sendo você pode usar, compartilhar e modificar para qualquer fim, desde que o 
